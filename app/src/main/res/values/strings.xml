@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TianQu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tip_double_click_exit">再次点击退出天趣</string>
+</resources>
