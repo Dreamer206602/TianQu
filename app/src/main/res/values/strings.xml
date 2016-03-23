@@ -1,9 +1,19 @@
 <resources>
-    <string name="app_name">TianQu</string>
+    <string name="app_name">天趣</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_tab_name_news">综合</string>
+    <string name="main_tab_name_tweet">动弹</string>
+    <string name="main_tab_name_quick">快速</string>
+    <string name="main_tab_name_question">问答</string>
+    <string name="main_tab_name_my">我</string>
+    <string name="main_tab_name_explore">发现</string>
+
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string name="tip_double_click_exit">再次点击退出天趣</string>
+
+    <!--quickButton-->
+    <string name="take_picture">拍照</string>
+    <string name="select_photo_from_mobile">从手机相册选择</string>
 </resources>
